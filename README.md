@@ -18,10 +18,7 @@
 * Browserstack (?)
 
 ## Vscode plugins
-* https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
-* https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-* https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-* https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline
+###General
 * https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
 * https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
@@ -34,6 +31,15 @@
 * https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint
 * https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 * https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero
+
+###Angular
+* https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
+* https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+* https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+* https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline
+
+###React
+
 
 ## Debugging
 https://medium.com/@auchenberg/super-charged-live-editing-and-javascript-debugging-for-angular-using-visual-studio-code-c29da251ec71
