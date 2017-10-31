@@ -18,7 +18,7 @@
 * Browserstack (?)
 
 ## Vscode plugins
-###General
+### General
 * https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
 * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
 * https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
@@ -32,13 +32,13 @@
 * https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 * https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero
 
-###Angular
+### Angular
 * https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 * https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
 * https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
 * https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline
 
-###React
+### React
 
 
 ## Debugging
