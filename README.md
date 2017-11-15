@@ -31,6 +31,7 @@
 * https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint
 * https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 * https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero
+* https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 ### Angular
 * https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
